@@ -10,7 +10,7 @@
   "dependencies": {
     "clipboard": "^1.7.1",
     "github-fork-ribbon-css": "^0.2.1",
-    "react-draggable": "^3.0.5"
+    "react-draggable": "^4.4.5"
   },
   "scripts": {
     "prestart": "cp -r ../../../build/node_modules/* ./node_modules/",
